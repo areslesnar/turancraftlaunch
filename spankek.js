@@ -4,7 +4,7 @@ const Discord = require('discord.js-selfbot')
 const tokens = [
   "token",
   "token",
-  "",
+  "ODc5MTAwNTQ2NTU5MTQ4MDMz.GUriG3.Cw8cQDKVbtbpzw3av3pmcUUf0rIgyT7zzoa8io",
   "",
   "",
   "",
