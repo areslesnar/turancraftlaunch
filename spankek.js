@@ -12,7 +12,7 @@ const tokens = [
 ];
 
 const chnls = [
-  "Bağlanacağı kanal",
+  "1146895791793901689",
   "Bağlanacağı kanal",
   "Bağlanacağı kanal", 
   "Bağlanacağı kanal",
